@@ -20,12 +20,12 @@
 	<link rel="stylesheet" href="/css/tweet.css">
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153625153-1"></script>
-	<script>  
-		window.dataLayer = window.dataLayer || [];  
-		function gtag(){dataLayer.push(arguments);}  
-		gtag('js', new Date());  
-		gtag('config', 'UA-153625153-1');
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164356875-1"></script>
+	<script>Â  
+		window.dataLayer = window.dataLayer || [];Â  
+		function gtag(){dataLayer.push(arguments);}Â  
+		gtag('js', new Date());Â  
+		gtag('config', 'UA-164356875-1');
 	</script>
 	
 	<script type="text/javascript" src="/js/tweet.js"></script>
